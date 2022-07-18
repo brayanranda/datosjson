@@ -1,7 +1,7 @@
 {
     "info": [
         {
-            "name" : "Steve Flynn"
+            "name" : "Steve Flynn",
             "position": "C/O STEVE FLYNN CLINTON ON N0M 1L0",
             "numberCell": "519-524-029",
             "numberOffice": "519-482-365",
@@ -11,10 +11,10 @@
             "Value": "S-P",
             "Age": "",
             "description": "Does not like text messages. Prefers phone calls > emails",
-            "image": "https://sis-secure-hub.com/hensall-Tu7soh5v/photo/view/6",
+            "image": "https://sis-secure-hub.com/hensall-Tu7soh5v/photo/view/6"
         },
         {
-            "name" : "Kaleigh Flynn"
+            "name" : "Kaleigh Flynn",
             "position": "Flynn Farms CLINTON ON N0M 1L0",
             "numberCell": "123-XYZ-LMN",
             "numberOffice": "519-482-565",
@@ -24,10 +24,10 @@
             "Value": "",
             "Age": "",
             "description": "Kaleigh looks after all logistics. She also always knows what is going on in the field day-to-day with field operations.",
-            "image": "https://sis-secure-hub.com/hensall-Tu7soh5v/photo/view/7",
+            "image": "https://sis-secure-hub.com/hensall-Tu7soh5v/photo/view/7"
         },
         {
-            "name" : "Stephanie Flynn"
+            "name" : "Stephanie Flynn",
             "position": "Flynn Farms CLINTON ON N0M 1L0",
             "numberCell": "ABC-123-WXZ",
             "numberOffice": "519-482-535",
@@ -37,10 +37,10 @@
             "Value": "P-S",
             "Age": "",
             "description": "Stephanie knows everything about the business. She is essentially the CFO of Flynn Farms.",
-            "image": "https://sis-secure-hub.com/hensall-Tu7soh5v/photo/view/8",
+            "image": "https://sis-secure-hub.com/hensall-Tu7soh5v/photo/view/8"
         },
         {
-            "name" : "Stephen Flynn"
+            "name" : "Stephen Flynn",
             "position": "40307 CONSERVATION LINE, CLINTON ON N0M 1L0",
             "numberCell": "519-524-029",
             "numberOffice": "519-482-365",
@@ -50,7 +50,7 @@
             "Value": "?",
             "Age": "",
             "description": "",
-            "image": "",
-        },
+            "image": ""
+        }
     ]
 }
